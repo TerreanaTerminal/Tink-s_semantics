@@ -1,5 +1,7 @@
 # Tink-s_semantics
+
 [link to deployed application]( https://terreanaterminal.github.io/Tink-s_semantics/)
+
 [link to Repo ]( https://github.com/TerreanaTerminal/Tink-s_semantics)
 
 ## Description
